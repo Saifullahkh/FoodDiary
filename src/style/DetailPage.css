@@ -1,0 +1,12 @@
+.img-detail{
+    width: 549px;
+    height: 549px;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+    .img-detail {
+      width: 350px;
+      height: 350px;
+    }
+  }
